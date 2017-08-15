@@ -1,4 +1,4 @@
-package br.com.so.util;
+package br.com.so.model;
 
 public class Aspirdor {
 
